@@ -1,0 +1,6 @@
+.idea
+*.csv
+*.db
+notice.sh
+var
+env
